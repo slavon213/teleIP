@@ -1,3 +1,4 @@
+t.me
 *.t.me
 *.telegram.me
 *.telegram.org
